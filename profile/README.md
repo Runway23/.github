@@ -12,7 +12,7 @@ Wanna get in touch with us and our community? Join and follow us in the followin
 
 Remember you can always shoot our entire team an email at hello@r23.xyz!
 
-## carreers
+## careers
 Currently, we have no open positions at Runway23. But you can visit our [Carrers] page for more information about possible recruitment opportunities.
 
 It is important to note that we do not specifically hire anyone and employ them, but rather recruit them as [fellows](https://en.wikipedia.org/wiki/Fellow#Industry_and_corporate_fellows). They're volunteers with honorariums, and they are free to work on any projects that we have, or create their own with our corporate support.
