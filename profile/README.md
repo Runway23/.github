@@ -1,3 +1,5 @@
+![Runway23's banner and logo](ghbanner.png)
+---
 Hey! We're Runway23, a limited-profit cooperative headquartered in Mexico City focused in creating, developing and incubating free and open source software for all.
 
 Here is where most of our development takes place and where we host most of our source code.
